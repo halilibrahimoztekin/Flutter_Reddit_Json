@@ -1,6 +1,6 @@
 # sonjsonbu
 
-Flutter'da http kütüphanesi ve rest api kullanarak wordpress bir sitedeki postların başlık ve featured image listelenmesini sağladım. 
+Flutter'da rest api kullanarak redditdeki bazı gönderilerin listelenmesini sağladım. Burada asıl amaç rest api ile listelemek ve json serialize kütüphanelerini kullanmaktı.
 
 ## Getting Started
 
