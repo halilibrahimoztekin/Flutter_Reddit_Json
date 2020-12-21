@@ -1,6 +1,6 @@
 # sonjsonbu
 
-A new Flutter application.
+Flutter'da http kütüphanesi ve rest api kullanarak wordpress bir sitedeki postların başlık ve featured image listelenmesini sağladım. 
 
 ## Getting Started
 
